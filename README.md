@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rahmaaroua
+- 👋 Hi, I’m @rahmaaroua a software engineering student
 - 👀 I’m interested in computer sciences and math
 - 🌱 I’m currently learning coding and algorithms
-- 💞️ I’m looking to collaborate on coding in c 
-- 📫 How to reach me email 
+- 💞️ I’m looking to collaborate on coding in c++ 
+
 
 <!---
 rahmaaroua/rahmaaroua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
