@@ -10,9 +10,19 @@
 💻 Exploring the world of **Cloud Development** through projects like full-stack app deployment on AWS.  
 
 ## Tech Skills  
-- **Languages**: Python, C++, Java 
-- **Frameworks/Tools**: TensorFlow, PyTorch, NestJS, Angular  
-- **Cloud Platforms**: AWS  
+## 🛠️ Skills
+
+### 💻 Coding Languages:
+- **Python**, **C/C++**, **SQL/NoSQL**, **Java**
+
+### 🤖 Machine Learning:
+- **Pandas**, **Numpy**, **Scikit-learn**, **Matplotlib**, **Seaborn**
+
+### ☁️ Cloud:
+- **Amazon Web Services (AWS)**
+
+### ⚙️ Development Tools:
+- **Git**, **GitHub**, **Docker**, **JIRA**, **CI / CD Pipelines**
 
 ## Goals  
 ✨ Build impactful projects that merge **AI** and **cloud technologies** to solve real-world problems.  
