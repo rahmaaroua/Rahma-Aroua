@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 ### 💻 Coding Languages:
-- **Python**, **C/C++**, **SQL/NoSQL**, **Java**
+- **Python**,**Java**,**SQL/NoSQL**
 
 ### 🤖 Machine Learning:
 - **Pandas**, **Numpy**, **Scikit-learn**, **Matplotlib**, **Seaborn**
