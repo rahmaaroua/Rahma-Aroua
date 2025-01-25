@@ -19,8 +19,8 @@
 🤝 Collaborate on open-source projects in **machine learning** and **cloud computing**.  
 
 ## Let’s Connect  
-📧 Feel free to reach out via [email@example.com](rahma.aroua@etudiant-fst.utm.tn)  
-💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/rahmaaroua](https://www.linkedin.com/in/rahma-aroua-857a75241/))  
+📧 Feel free to reach out via [rahma.aroua@etudiant-fst.utm.tn](rahma.aroua@etudiant-fst.utm.tn)  
+💼 Connect with me on [LinkedIn]([[https://www.linkedin.com/in/rahmaaroua](https://www.linkedin.com/in/rahma-aroua-857a75241/)](https://www.linkedin.com/in/rahma-aroua-857a75241/))  
 
 
 <!---
