@@ -12,13 +12,13 @@
 ## Tech Skills  
 ## 🛠️ Skills
 
-### 💻 Coding Languages:  **Python**,**Java**,**SQL/NoSQL**
+### 💻 Coding Languages:  Python,Java,SQL/NoSQL
 
-### 🤖 Machine Learning: **Pandas**, **Numpy**, **Scikit-learn**, **Matplotlib**, **Seaborn**
+### 🤖 Machine Learning: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
-### ☁️ Cloud:  **Amazon Web Services (AWS)**
+### ☁️ Cloud:  Amazon Web Services (AWS)
 
-### ⚙️ Development Tools: **Git**, **GitHub**, **Docker**, **JIRA**, **CI / CD Pipelines**
+### ⚙️ Development Tools: Git, GitHub, Docker, JIRA, CI / CD Pipelines
 
 ## Goals  
 ✨ Build impactful projects that merge **AI** and **cloud technologies** to solve real-world problems.  
