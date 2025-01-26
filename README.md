@@ -9,7 +9,6 @@
 🌱 Currently learning advanced  **Machine Learning techniques**.  
 💻 Exploring the world of **Cloud Development** through projects like full-stack app deployment on AWS.  
 
-## Tech Skills  
 ## 🛠️ Skills
 
 💻 **Coding Languages**: Python, Java, SQL/NoSQL
