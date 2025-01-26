@@ -14,7 +14,7 @@
 
 💻 **Coding Languages**: Python, Java, SQL/NoSQL
 
- 🤖 **Machine Learning: Pandas**, Numpy, Scikit-learn, Matplotlib, Seaborn
+ 🤖 **Machine Learning:** Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
 ☁️ **Cloud**:  Amazon Web Services (AWS)
 
@@ -29,7 +29,3 @@
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahma-aroua-857a75241/)
 
 
-<!---
-rahmaaroua/rahmaaroua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
